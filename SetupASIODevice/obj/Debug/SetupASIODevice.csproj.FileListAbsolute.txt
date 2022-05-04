@@ -1,0 +1,17 @@
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\SetupASIODevice.exe.config
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\SetupASIODevice.exe
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\SetupASIODevice.pdb
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\System.Security.AccessControl.dll
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.SetASIODevice.resources
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.Properties.Resources.resources
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.csproj.GenerateResource.cache
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.csproj.CoreCompileInputs.cache
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.csproj.CopyComplete
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.exe
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.pdb
+C:\Users\xreztech009\source\repos\SetupASIODevice\SetupASIODevice\obj\Debug\SetupASIODevice.csproj.AssemblyReference.cache
